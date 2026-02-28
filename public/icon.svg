@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <!-- Fond rond doré -->
+  <rect width="192" height="192" rx="40" fill="#0A0E14"/>
+  <!-- Cercle doré -->
+  <circle cx="96" cy="96" r="80" fill="#C9A96E" opacity="0.15"/>
+  <!-- Avion ✈ -->
+  <text x="96" y="125" 
+        font-size="90" 
+        text-anchor="middle" 
+        font-family="serif">✈</text>
+  <!-- Étoile décorative -->
+  <text x="148" y="58" 
+        font-size="28" 
+        text-anchor="middle" 
+        font-family="serif" 
+        fill="#C9A96E">✦</text>
+</svg>
